@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yaswanthsaiappalabattula
 - 👀 I’m interested in -coding in Python and Manufacturing of EV car's 
 - 🌱 I’m currently learning - python
-- 💞️ I’m looking to collaborate on - microsoft 
+- 💞️ I’m looking to collaborate on - microsoft and meil mega ltd.
 - 📫 How to reach me -email or contact 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
